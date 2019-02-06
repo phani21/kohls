@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49350879220B7350009A8F26 /* nike.png in Resources */ = {isa = PBXBuildFile; fileRef = 49350878220B7350009A8F26 /* nike.png */; };
 		49CFB989220ACA090086DE94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CFB988220ACA090086DE94 /* AppDelegate.swift */; };
 		49CFB98B220ACA090086DE94 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CFB98A220ACA090086DE94 /* ViewController.swift */; };
 		49CFB98E220ACA090086DE94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49CFB98C220ACA090086DE94 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		49350878220B7350009A8F26 /* nike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nike.png; sourceTree = "<group>"; };
 		49CFB985220ACA090086DE94 /* kohls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kohls.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49CFB988220ACA090086DE94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49CFB98A220ACA090086DE94 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				49CFB98A220ACA090086DE94 /* ViewController.swift */,
 				49CFB98C220ACA090086DE94 /* Main.storyboard */,
 				49CFB98F220ACA0A0086DE94 /* Assets.xcassets */,
+				49350878220B7350009A8F26 /* nike.png */,
 				49CFB9A9220B2E350086DE94 /* line.jpg */,
 				49CFB9A7220B2CA50086DE94 /* stars.jpg */,
 				49CFB9A5220B26E70086DE94 /* hoodie.jpg */,
@@ -134,6 +137,7 @@
 				49CFB9A6220B26E70086DE94 /* hoodie.jpg in Resources */,
 				49CFB993220ACA0A0086DE94 /* LaunchScreen.storyboard in Resources */,
 				49CFB990220ACA0A0086DE94 /* Assets.xcassets in Resources */,
+				49350879220B7350009A8F26 /* nike.png in Resources */,
 				49CFB98E220ACA090086DE94 /* Main.storyboard in Resources */,
 				49CFB9A8220B2CA50086DE94 /* stars.jpg in Resources */,
 				49CFB9AA220B2E350086DE94 /* line.jpg in Resources */,
